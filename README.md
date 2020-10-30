@@ -1,2 +1,2 @@
 # React-axios-cancel-request-demo
-Created with CodeSandbox
+This project demos how axios requests can be cancelled inside the React componentWillUnmount lifecycle method across multiple files.
